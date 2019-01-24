@@ -1,3 +1,3 @@
 public class peggy1 {
-    // contoh tambahan
+    // contoh tambahan ke 2
 }
